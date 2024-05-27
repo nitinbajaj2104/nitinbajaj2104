@@ -7,6 +7,8 @@ Adept at translating data into actionable insights, facilitating informed decisi
 
 ✉️ &nbsp;You can shoot me an email at nitinbajaj2104@gmail.com! I'll try to respond as soon as I can.\
 
+
+### LinkedIn Profile :
 <a href="https://linkedin.com/in/nitinbajaj2104"><img src="https://img.shields.io/badge/-Nitin%20Bajaj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 

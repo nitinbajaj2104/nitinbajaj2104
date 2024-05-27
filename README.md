@@ -5,7 +5,7 @@ Adept at translating data into actionable insights, facilitating informed decisi
 
 ### 👨🏻‍💻 &nbsp;Connect with Me:
 
-✉️ &nbsp;You can shoot me an email at nitinbajaj2104@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at nitinbajaj2104@gmail.com! I'll try to respond as soon as I can.
 
 
 ### LinkedIn Profile :

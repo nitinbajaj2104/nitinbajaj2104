@@ -17,7 +17,6 @@ I am a detail-oriented professional with a background in data analytics, operati
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
-![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apache-hadoop&logoColor=66CCFF)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=tensorflow)&nbsp;
 
 

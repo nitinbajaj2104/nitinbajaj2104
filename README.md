@@ -2,7 +2,7 @@
 I am a detail-oriented professional with a background in data analytics, operations, and healthcare credentialing and enrollment. I am dedicated to leveraging my data-driven and operational expertise to streamline processes, identify insights, and solve complex business challenges, ensuring accuracy, efficiency, and informed decision-making.
 ### 👨🏻‍💻 &nbsp;Connect with Me:
 
-✉️ &nbsp;You can shoot me an email at nitinbajaj2104@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at nbajaj2104@gmail.com! I'll try to respond as soon as I can.
 
 
 ### LinkedIn Profile :
